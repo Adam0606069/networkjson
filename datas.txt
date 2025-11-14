@@ -1,0 +1,4 @@
+[
+    {"nev":"Anna","pont":3},
+    {"nev":"Bela","pont":1}
+]

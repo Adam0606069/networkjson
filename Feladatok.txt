@@ -1,0 +1,5 @@
+Listázd a lekapcsolt interfészeket (routers.json)
+Írd ki minden IP-hez a MAC címet (dhcp.json).
+Gyűjtsd ki az összes IP-t, ahol action = "deny" (firewall.json) .
+Írd ki az összes VLAN nevét és ID-ját (vlans.py).
+Írasd ki az aktív SSID-ket (wifi.json).

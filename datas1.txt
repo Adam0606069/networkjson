@@ -1,0 +1,10 @@
+[
+    {
+        "nev": "Anna",
+        "pont": 4
+    },
+    {
+        "nev": "Bela",
+        "pont": 2
+    }
+]

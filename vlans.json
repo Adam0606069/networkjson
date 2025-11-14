@@ -1,0 +1,9 @@
+
+{
+    "switch": "Switch1",
+    "vlans": [
+        {"id": 10, "name": "Admin"},
+        {"id": 20, "name": "Guest"},
+        {"id": 30, "name": "IoT"}
+    ]
+}

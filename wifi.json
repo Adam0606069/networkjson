@@ -1,0 +1,7 @@
+
+{
+    "access_points": [
+        {"ssid": "OfficeWiFi", "channel": 6, "status": "active"},
+        {"ssid": "GuestWiFi", "channel": 11, "status": "inactive"}
+    ]
+}

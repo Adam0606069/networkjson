@@ -1,0 +1,9 @@
+
+{
+    "firewall": "FW1",
+    "rules": [
+        {"action": "allow", "ip": "192.168.1.10"},
+        {"action": "deny", "ip": "10.0.0.5"},
+        {"action": "deny", "ip": "172.16.0.3"}
+    ]
+}
